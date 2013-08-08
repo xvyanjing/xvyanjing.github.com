@@ -1,0 +1,688 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="简历,徐彦静,行政，人事，人力资源方向"/>
+<meta name="description" content="我的网页个人简历|My Web page CV" />
+<meta name="author" content="Shawn Wang for www.dreambang.net" />
+<title>简历-徐颜静|CV-Yanjing XU</title>
+<link href="../styles/cvStyle.css" rel="stylesheet" type="text/css" media="all"/>
+
+<script type="text/javascript">
+	
+	function dreamOver(label){
+		label.style.color="#FFF";
+	}
+	function dreamOut(label){
+		label.style.color="#123";
+	}
+	
+</script>
+
+</head>
+
+
+<body>
+
+<div id="all">
+
+<div id="main">
+
+<div  id="assessment" > 
+  <p><span style="font-size: 24px; color: #999; font-family: 'Arial Black', Gadget, sans-serif;">A</span><span style="font-size: 13px; color: #999; font-family: 'Arial Black', Gadget, sans-serif;">ssessment /</span></p>
+  <p>	
+    <ul type="none">
+      <li>拥有较强的自学能力，能快速适应新的环境。</li>
+      <li>具有团队协作精神，能与他人在段时间到达到契合。</li>
+      <li>积极向上，善于沟通，乐于听取他人意见，改正自身。</li>
+      <li>拥有创新思维，并且汲取生活中经验，运用到学习与工作中。</li>
+    </ul type="none">
+ </p>
+</div>
+
+
+<div class="frame">
+<div class="title" id="informationTitle">
+	<br/>I<br/>n<br/>f<br/>o<br/>r<br/>m<br/>a<br/>t<br/>i<br/>o</br>n
+</div>
+<div class="context" id="information">
+<table width="686">
+<hr/>
+<tr>
+<td width="500">
+<table width="500" >
+<tr>
+<td width="300">
+<strong class="contextTitle">姓名：</strong> 徐彦静
+</td>
+<td>
+<strong class="contextTitle">性别：</strong> 女
+</td>
+</tr>
+<tr>
+<td>
+<strong class="contextTitle">生日：</strong> 1990/11/06
+</td>
+<td>
+<strong class="contextTitle">院校：</strong> 河北金融学院
+</td>
+</tr>
+<tr>
+<td>
+<strong class="contextTitle">专业：</strong> 国际经济与贸易
+</td>
+<td>
+<strong class="contextTitle">民族：</strong> 汉
+</td>
+</tr>
+<tr>
+<td>
+<strong class="contextTitle">籍贯：</strong> 河北
+</td>
+<td>
+<strong class="contextTitle">健康：</strong> 优良
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<strong class="contextTitle">移动电话：</strong> +86 15933935626
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<strong class="contextTitle">Live Messager：</strong> xvyanjing@hotmail.com
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<strong class="contextTitle">电子邮箱：</strong> <a href="mailto:xvyanjing@163.com">xvyanjing@163.com</a>
+>hatewx@gmail.com</a>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<strong class="contextTitle">新浪微薄：</strong> <a href="http://xvyanjing.blog.163.com" target="_blank">xvyanjing.blog.163.com/</a>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<strong class="contextTitle">个人博客：</strong> <a href="http://weibo.com/u/2117128057" target="_blank">call-me徐小静</a>
+</td>
+</tr>
+</table>
+</td>
+<td>
+	<div id="photo">
+		<img src="../images/protriat-x.jpg"></img>
+	</div>
+<td>
+                   </tr>
+</table>
+</div>
+</div>
+
+<!--the div of work experience-->
+<div class="frame">
+<div class="title" id="workExperienceTitle">
+	<br/>W<br/>o<br/>r<br/>k<br/><br/>E<br/>x<br/>p<br/>e<br/>r<br/>i<br/>e<br/>n<br/>c<br/>e
+</div>
+<div class="context" id="workExperience">  
+<hr/>
+   <table>
+	<tbody>
+	  <tr>
+		<td>
+		 <table>
+		  <tbody>
+			<tr>
+            <table>
+				<tr>
+					<td width="500" style="font-size: 13px; color: #156	; font-weight: bold;">
+						北京达芙妮
+					</td>
+					<td >
+						<strong>2012-07 至 2012-08 销售人员</strong>
+					</td>
+				</tr>
+            </table>
+			</tr>
+			<tr>
+			  <td colspan="2" height="1"></td>
+			</tr>
+			<tr>
+			  <td colspan="2"><span class="contextTitle">所属行业：</span> 进出口，纺织品</td>
+			</tr>
+			<tr>
+			  <td colspan="2"><span class="contextTitle">工作地点：</span> 北京 | 工作类型：实习 | 职位类别：销售人员 | 所在部门：销售部门</td>
+			</tr>
+			<tr>
+			  <td colspan="2"><span class="contextTitle">汇报对象：</span> 销售主管（SDM）</td>
+			</tr>
+			<tr>
+            <table>
+            <tr>
+				<td width="83" class="contextTitle">工作职责：</td>
+				<td width="361">1.负责员工考勤，店面及仓库的管理工作，及时汇报与主管人员。<br />
+				2.热情接待客户，协助店长，高效的完成当月的业绩，并超出业绩20%。<br/>
+				3.学习了销售技巧，极大的锻炼并发挥了自己的口头表达能力，以及有效沟通的能力。团结协作能力有很大提升。
+				</td>
+            </tr>
+            </table>
+			</tr>
+		  </tbody>
+		</table></td>
+	  </tr>
+	</tbody>
+  </table>
+  
+  <table width="600">
+    <tr>
+		<table>
+			<tr>
+				<td width="500" style="font-size: 13px; color: #156; font-weight: bold;">
+					中国建设银行保定分行
+				</td>
+				<td >
+					<strong>2012-05 至 2012-05 接待人员</strong>
+				</td>
+			</tr>
+        </table>
+    </tr>
+  </table>
+  
+  <table width="600">
+      <tr>
+		<table>
+			<tr>
+				<td width="500" style="font-size: 13px; color: #156; font-weight: bold;">
+					 中国平安保险（北京）
+				</td>
+				<td >
+					<strong>2011-07 至 2011-08 客服专员</strong>
+				</td>
+			</tr>
+        </table>
+      </tr>
+  </table>
+ 
+ 
+</div>
+</div>
+
+<!--the div of skills-->
+<div class="frame">
+<div class="title" id="skillsTitle">
+	<br/>S<br/>k<br/>i<br/>l<br/>l<br/>s<br/>& <br/>P<br/>r<br/>o<br/>j<br/>e<br/>c<br/>t<br/>s
+</div>
+<div class="context" id="skills">
+	<hr/>
+<table width="700">	
+	<tbody>
+		<tr>
+	    	<td ><span class="contextTitle">IT技能：熟悉office,excel.ppt</td>
+		</tr>
+		<tr>
+		    <td ><span class="contextTitle">语言及书写：普通话一级乙，日常工作的信函撰写</td>
+		</tr>
+		<tr>
+			<td ><span class="contextTitle">文字：喜欢写一些小感概，读后感，小心得。</td>
+		<tr>
+		  <td><span class="contextTitle">展示链接：</span> <a href="http://wenda.hiall.com.cn/u/hatewx">wenda.hiall.com.cn/u/hatewx</a>&nbsp;&nbsp;&nbsp;<span class="note">(9月1日起抽空更新中...)</span></td>
+	    </tr>
+        <tr height="25px">
+        </tr>
+	</tbody>
+</table>
+<hr/>
+
+</div>
+</div>
+
+<!--the div of education-->
+<div class="frame">
+<div class="title" id="educationTitle">
+	<br/>E<br/>d<br/>u<br/>c<br/>a<br/>t<br/>i<br/>o<br/>n<br/>
+</div>
+<div class="context" id="education">
+	<hr/>
+	<table width="600">
+				<tr>
+					<table>
+						<tr>
+							<td width="500" style="font-size: 13px; color: #156; font-weight: bold;">
+								河北金融学院
+							</td>
+							<td>
+								<strong>2010-09 至 2014-06</strong>
+							</td>
+						</tr>
+					</table>
+				</tr>
+				<tr>
+					<table>
+						<tr>
+							<td width="80">
+								<span class="contextTitle">院系：</span>
+							</td>
+							<td>
+								经济贸易系
+							</td>
+						</tr>
+					</table>					
+				</tr>
+				<tr>
+					<table>
+						<tr>
+							<td width="80">
+								<span class="contextTitle">学历：</span>
+							</td>
+							<td>
+								本科
+							</td>
+						</tr>
+					</table>					
+				</tr>
+	</table>
+	<table>
+		<tr height="25px">	
+		</tr>
+	</table>
+	<hr/>
+	<table width="700">	
+		<tr>
+			<table>
+				<tr>
+					<td width="80">
+						<span class="contextTitle">主修课程：</span>
+					</td>
+					<td>
+						经济类学科：西方经济学，经济学，金融学，财政学，国际税收等
+					</td>
+				</tr>
+			</table>					
+		</tr>
+		<tr>
+			<table>
+				<tr>
+					<td width="80">
+						<span class="contextTitle">选修课程：</span>
+					</td>
+					<td>
+						管理类学科：管理学，职业规划，跨国公司，心理学，社交礼仪等
+。
+					</td>
+				</tr>
+			</table>					
+		</tr>
+	</table>
+	<table>
+		<tr height="25px">	
+		</tr>
+	</table>
+	<hr/>
+	<table width="600">
+				<tr>
+					<table>
+						<tr>
+							<td width="500" style="font-size: 13px; color: #156; font-weight: bold;">
+								CET 4
+							</td>
+							<td>
+								<strong>2011-06</strong>
+							</td>
+						</tr>
+					</table>
+				</tr>
+				<tr>
+					<table>
+						<tr>
+							<td width="80">
+								<span class="contextTitle">听说：</span>
+							</td>
+							<td>
+								能够基本交流。
+							</td>
+						</tr>
+					</table>					
+				</tr>
+				<tr>
+					<table>
+						<tr>
+							<td width="80">
+								<span class="contextTitle">读写：</span>
+							</td>
+							<td>
+								可以进行日常书信写作，以及书刊的阅读。
+							</td>
+						</tr>
+					</table>					
+				</tr>
+	</table>
+</div>
+</div>
+
+<!--the div of social work-->
+<div class="frame">
+<div class="title" id="socialTitle">
+<br/>S<br/>o<br/>c<br/>i<br/>a<br/>l<br/><br/>E<br/>X<br/>P
+</div>
+<div class="context" id="social">
+	<hr/>
+	<table width="600">
+				<tr>
+					<table>
+						<tr>
+							<td width="500" style="font-size: 13px; color: #156; font-weight: bold;">
+								自我评价
+							</td>
+							<td>
+								<strong>2011-05 至 2012-06</strong>
+							</td>
+						</tr>
+					</table>
+				</tr>
+				<tr>
+					<table>
+						<tr>
+							<table>
+								<tr>
+									<td width="80">
+										<span class="contextTitle">简述：</span>
+									</td>
+									<td>
+										朋友眼中的我：沉稳，安静，内敏，富有独创性，个性复合，有远见，忠诚，关怀别人，喜欢探索自己和他人的心理，乐于了解和发展他人的潜能。喜爱读书和讨论，关注未来发生积极变化的可能性，善于领悟事物间的联系和意义。 <br/><span class="note"></span>
+									</td>
+								</tr>
+							</table>	
+						</tr>
+					</table>					
+				</tr>
+	</table>
+	<table width="600">
+				<tr>
+					<table>
+						<tr>
+							<td width="500" style="font-size: 13px; color: #156; font-weight: bold;">
+								生活中的我：希望外在生活形态与内在价值观相吻合，把追求能够体现自我意义的生活放在首位。有求知欲，对外界充满好奇心，很快能看出机会所在。会非常积极地参与有助于自己及他人的进步和内在发展的任务。
+							</td>
+							<td>
+								<strong>2010-06 至 2011-09</strong>
+							</td>
+						</tr>
+					</table>
+				</tr>
+				<tr>
+					<table>
+						<tr>
+							<table>
+								<tr>
+									<td width="80">
+										<span class="contextTitle">简述：</span>
+									</td>
+									<td>
+										对于未来事业：重视指向性的目标，全身心地投入发挥出冲刺式的干劲，全神贯注，全力以赴，忠实履行自己的义务。遵守规则的同时，喜欢自主控制进程。对所处的境遇及拥有的物质条件不太在意，只要内在价值观不受干扰，就能以弹性而很灵活地适应环境，常担负开发创意的任务。。</span>
+									</td>
+								</tr>
+							</table>	
+						</tr>
+					</table>					
+				</tr>
+	</table>
+	<table width="600">
+				<tr>
+					<table>
+						<tr>
+							<td width="500" style="font-size: 13px; color: #156; font-weight: bold;">
+							对于未来，我敢想，更敢去做，生活给与的每一个机会，我都会紧紧抓住。	
+							</td>
+							<td>
+								<strong>2009-09 至 2011-06</strong>
+							</td>
+						</tr>
+					</table>
+				</tr>
+				<tr>
+					<table>
+						<tr>
+							<table>
+								<tr>
+									<td width="80">
+										<span class="contextTitle">简述：</span>
+									</td>
+									<td>
+										曼昆曾说：找到你喜欢做的事情，然后找到愿意雇你来做这件事的人。
+									</td>
+								</tr>
+							</table>	
+						</tr>
+					</table>					
+				</tr>
+	</table>
+</div>
+</div>
+
+<!--the div of awards-->
+<div class="frame">
+<div class="title" id="awardsTitle">
+	<br/>A<br/>w<br/>a<br/>r<br/>d<br/>s
+</div>
+<div class="context" id="awards">
+	<hr/>
+	<table width="600">
+      <tr>
+		<table>
+			<tr>
+				<td width="500" style="font-size: 13px; color: #156; font-weight: bold;">
+					我的职业生涯规划
+				</td>
+				<td >
+					<strong>2012-10</strong>
+				</td>
+			</tr>
+        </table>
+      </tr>
+    </table>
+	<table width="600">
+      <tr>
+		<table>
+			<tr>
+				<td width="500" style="font-size: 13px; color: #156; font-weight: bold;">
+					第一年：人事助理/行政助理(从基本做起，学习经验，熟悉人事模块）
+				</td>
+				<td >
+					<strong>2012-01</strong>
+				</td>
+			</tr>
+        </table>
+      </tr>
+    </table>
+	<table width="600">
+      <tr>
+		<table>
+			<tr>
+				<td width="500" style="font-size: 13px; color: #156; font-weight: bold;">
+					第二年—第三年：人事专员（会朝绩效、薪酬方面加深）<span class="note">(2次)</span>
+				</td>
+				<td >
+					<strong>2011-09 / 2010-09</strong>
+				</td>
+			</tr>
+        </table>
+      </tr>
+    </table>
+	<table width="600">
+      <tr>
+		<table>
+			<tr>
+				<td width="500" style="font-size: 13px; color: #156; font-weight: bold;">
+					第四年—第六年：人事主管（积累相当经验，有自己相当精通的几个模块，清楚员工各个状况）
+				</td>
+				<td >
+					<strong>2011-06</strong>
+				</td>
+			</tr>
+        </table>
+      </tr>
+    </table>
+	<table width="600">
+      <tr>
+		<table>
+			<tr>
+				<td width="500" style="font-size: 13px; color: #156; font-weight: bold;">
+					第七年—第十年：人事经理（善于构建人力资源框架，要了解员工，充分发挥他们工作的积极性，招揽更有优秀的人才）<span class="note">(2次)</span>
+				</td>
+				<td >
+					<strong>2011-06 / 2010-06</strong>
+				</td>
+			</tr>
+        </table>
+      </tr>
+    </table>
+	<table width="600">
+      <tr>
+		<table>
+			<tr>
+				<td width="500" style="font-size: 13px; color: #156; font-weight: bold;">
+					第十一年：HRD（熟识人力资源的专业知识，拥有丰富的人力经验，不仅仅把自己当作人力资源管理者，更要从企业经营者的角度出发思考问题。）
+				</td>
+				<td >
+					<strong>2010-10</strong>
+				</td>
+			</tr>
+        </table>
+      </tr>
+    </table>
+	<table width="600">
+      <tr>
+		<table>
+			<tr>
+				<td width="500" style="font-size: 13px; color: #156; font-weight: bold;">
+					个人兴趣爱好：看书，旅行，喜欢有艺术性、创造性、独立性、的东西
+				</td>
+				<td >
+					<strong>2010-05</strong>
+				</td>
+			</tr>
+        </table>
+      </tr>
+    </table>
+	<table width="600">
+      <tr>
+		<table>
+			<tr>
+				<td width="500" style="font-size: 13px; color: #156; font-weight: bold;">
+					看重社会义务和社会道德，乐于与人交流，喜欢生活中美好的事物。
+				</td>
+				<td >
+					<strong>2009-09</strong>
+				</td>
+			</tr>
+        </table>
+      </tr>
+    </table>
+</div> 
+</div>
+
+<!--the div of -->
+<div class="frame">
+<div class="title" id="experienceTitle">
+	<br/>A<br/>p<br/>p<br/>l<br/>i<br/>e<br/>d
+</div>
+<div class="context" id="experience">
+	<hr>
+	<table width="600">
+      <tr>
+		<table>
+			<tr>
+				<td width="250" style="font-size: 13px; color: #156; font-weight: bold;">
+					学校社团活动
+				</td>
+				<td width="250">
+					曾在爱心社，随团队一起看望保定的孤寡老人，为他们送去生活用品，以及慰藉。
+				</td>
+				<td >
+					<strong>2012-04</strong>
+				</td>
+			</tr>
+        </table>
+      </tr>
+    </table>
+	<table width="600">
+      <tr>
+		<table>
+			<tr>
+				<td width="250" style="font-size: 13px; color: #156; font-weight: bold;">
+				书法协会	</span>
+				</td>
+				<td width="250">
+				主要学习中国毛笔字，培养心性
+				</td>
+				<td >
+					<strong>2012-04</strong>
+				</td>
+			</tr>
+        </table>
+      </tr>
+    </table>
+	<table width="600">
+      <tr>
+		<table>
+			<tr>
+				<td width="250" style="font-size: 13px; color: #156; font-weight: bold;">
+					魔术协会</span>
+				</td>
+				<td width="250">
+					纯粹是个人兴趣爱好，喜欢新奇去探索。
+				</td>
+				<td >
+					<strong>2012-04</strong>
+				</td>
+			</tr>
+        </table>
+      </tr>
+    </table>
+	<table>
+		<tr height="25">
+		</tr>
+	</table>
+	<hr/>
+	<table width="600">
+      <tr>
+		<table>
+			<tr>
+				<td width="250" style="font-size: 13px; color: #156; font-weight: bold;">
+					Now...<span class="contextTitle">渴望一份激动人心的正式工作</span>
+				</td>
+				<td width="250">
+					waiting
+				</td>
+				<td >
+					<strong>2012-09 —</strong>
+				</td>
+			</tr>
+        </table>
+      </tr>
+    </table>
+</div>
+</div>
+
+
+
+</div>
+
+</div>
+
+<div id="footer">
+	<span id="copy">
+	&copy; Copyright Design by Shawn Wang 2012 
+	</span>
+	<label id="dream" onmouseover="dreamOver(this)" onmouseout="dreamOut(this)">
+		<span>
+			www.dreambang.net
+		</span>
+	</label>
+</div>
+</body>
+</html>

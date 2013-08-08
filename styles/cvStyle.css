@@ -1,0 +1,175 @@
+@charset "utf-8";
+/* CSS Document */
+body{	
+	margin:0px;
+}
+
+#all {
+	/*margin-top:200px;*/
+	padding-top:200px;
+	padding-left:8%;
+	padding-bottom:100px;
+	border-bottom-style: dashed;
+	border-width:2px;
+	border-color:#FFF;
+	background-color:#222;
+	
+}
+
+
+
+#main {
+	background-image:url(../images/bg-0187.jpg);
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	padding:40px;
+	width:900px;
+	border:0px ;
+}
+.contextTitle{
+	font-size:13px;
+	color:#888;
+	font-weight:bold;
+}
+.frame{
+	margin-left:50px;
+    width:800px;
+	
+}
+.title{
+	float:left; 
+    margin:0px 0px 0px 0px;
+    width:45px;
+    height:200px;
+	color:#FFF;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	text-align:center;
+}
+
+.context {
+	margin:0px 0px 0px 45px;  
+	padding:20px 20px 20px 20px;
+	height:160px;
+}
+
+
+
+#assessment{
+	margin:10px 50px 0px 95px;
+	background-color:#222;
+	height:155px;
+	color: #FFF;
+	padding:1px 20px 10px;
+	font-size: 15px;
+	font-family: Verdana, Geneva, sans-serif;
+
+}
+
+#photo {
+	padding:5px;
+	outline-style:dashed;
+	outline-width:2px;
+	outline-color:#DDD;
+	}
+
+#informationTitle{
+   background-color:#B70000;
+   height:240px;
+}
+
+#information{
+	background-color:#FFF;
+	height:200px;
+}
+
+#educationTitle{
+	background-color:#0c9e16;
+	height:340px;
+	
+}
+
+#education{
+	background-color:#F6F6F6;
+	height:300px;
+}
+
+#workExperienceTitle{
+	background-color:#CD0;
+	height:310px;
+}
+
+#workExperience{
+	background-color:#F6F6F6;
+	height:270px;
+}
+
+#skillsTitle{
+	background-color:#0cc5c3;
+	height:220px;
+}
+
+#skills{
+	background-color:#FFF;
+	height:180px;
+}
+
+#socialTitle{
+	background-color:#3C5175;
+	height:230px;
+}
+
+#social{
+	background-color:#FFF;
+	height:190px;
+}
+
+#experienceTitle{
+	background-color:#3C5175;
+	height:120px;
+}
+
+#experience{
+	background-color:#F6F6F6;
+	height:80px;
+}
+
+#awardsTitle{
+	background-color:#f57c1b;
+	height:170px;
+}
+
+#awards{
+	background-color:#FFF;
+	height:130px;
+}
+
+#footer{
+	padding:10px;
+	height:30px;
+	margin-top:10px;
+	color:#FFF;
+	border-top-style:dashed;
+	border-width:2px;
+	border-color:#FFF;
+	background:#3C5175;
+}
+
+#copy{
+	font-size:15px;
+	margin-left:190px;
+	font-family:monospace;
+}
+
+#dream{
+	float:right;
+	font-size:13px;
+	font-family:monospace;
+	color:#123;
+	margin-right:200px;
+	margin-bottom:5px;
+}
+.note {
+	color:#666;
+	font-size:12px;
+}
